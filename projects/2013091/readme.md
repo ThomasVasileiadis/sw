@@ -15,4 +15,7 @@
 
 Έγινε η εγκατάσταση των εργαλείων τοπικά (pandoc, latex). Όσον αναφορά το weasyprint, απέτυχα να το εγκαταστήσω λόγω compatibility με python2.7 παρόλο που έχω και python3. Κάνοντας μια έρευνα βρήκα ότι το wkhtmltopdf είναι εξίσου χρήσιμο και θα με βοηθήσει στην δουλειά που θέλω να κάνω.
 
+- [Δοκιμαστικό PDF](https://github.com/ThomasVasileiadis/study-guide/blob/master/dokimastiko.pdf)
+
+- [Τελικές οθόνες εγκατάστασης](https://github.com/ThomasVasileiadis/study-guide/blob/develop/egkatastash.png)
 
