@@ -1,4 +1,4 @@
- Δυναμική δημιουργία του Οδηγού Σπουδών
+Δυναμική Δημιουργία Οδηγού Σπουδών
 -----------------------------------------------------------------------------------------------------------------------------------
  Ονοματεπώνυμο: Βασιλειάδης Θωμάς
  
@@ -18,4 +18,11 @@
 - [Δοκιμαστικό PDF](https://github.com/ThomasVasileiadis/study-guide/blob/develop/dokimastiko.pdf)
 
 - [Τελικές οθόνες εγκατάστασης](https://github.com/ThomasVasileiadis/study-guide/blob/develop/egkatastash.png)
+
+
+Δημιουργήθηκαν [8 αρχεία](https://github.com/ThomasVasileiadis/study-guide/tree/master/undergraduate-studies1718) που τακτοποιούν τα 8 εξάμηνα με τα μαθήματα που περιέχονται σε αυτά και τις πληροφορίες αυτών(τα ECTS για κάθε μάθημα, Ώρες, Εργαστήρια-Φροντηστήρια, Κατευθύνσεις), καθώς επίσης δημιούργησα πινακάκια για στοίχιση των δεδομένων για εύκολη ανάγνωση. Τα δεδομένα από τα αρχεία πάρθηκαν, όπως αναφέρθηκε στην εκφώνηση, από την [τρέχουσα έκδοση οδηγού σπουδών](https://github.com/ioniodi/study-guide/blob/master/legacy/odt1718/SG1718.md), καθώς πριν αυτό, έγινε έλεγχος για να μην επιλεχθούν τα ίδια αρχεία με αυτά που έχουν ήδη επιλεχτεί σε [ανοιχτά](https://github.com/ioniodi/study-guide/pulls) και [κλειστά](https://github.com/ioniodi/study-guide/pulls?q=is%3Apr+is%3Aclosed) αιτήματα.
+
+Στην συνέχεια, έγινε τροποποίηση στο αρχείο [style.css](https://github.com/ThomasVasileiadis/study-guide/blob/master/legacy/odt1718/style.css) και άλλαξα χρώματα στο background στα headers και στα γράμματα της σελίδας.
+
+Ακόμη, για την σελίδα χωρίς εικόνες, τακτοποίησα και διόρθωσα όλη την σελίδα και την ανέβασα στο [forked-repository](https://github.com/ThomasVasileiadis/study-guide/tree/master/legacy/odt1718) με όνομα [html2markdown.md](https://github.com/ThomasVasileiadis/study-guide/blob/master/legacy/odt1718/html2markdown.md) (δημιούργησα το html αρχείο, το επεξεργάστηκα, και μετά το μετέτρεψα σε markdown μέσω του pandoc).
 
