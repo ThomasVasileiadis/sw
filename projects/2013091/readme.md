@@ -19,6 +19,8 @@
 
 - [Τελικές οθόνες εγκατάστασης](https://github.com/ThomasVasileiadis/study-guide/blob/develop/egkatastash.png)
 
+- [Αποθετήριο του κώδικα](https://github.com/ThomasVasileiadis/study-guide)
+
 
 Δημιουργήθηκαν [8 αρχεία](https://github.com/ThomasVasileiadis/study-guide/tree/master/undergraduate-studies1718) που τακτοποιούν τα 8 εξάμηνα με τα μαθήματα που περιέχονται σε αυτά και τις πληροφορίες αυτών (ECTS για κάθε μάθημα, Ώρες, Εργαστήρια-Φροντιστήρια, Κατευθύνσεις), καθώς επίσης δημιούργησα πινακάκια για στοίχιση των δεδομένων για εύκολη ανάγνωση. Τα δεδομένα από τα αρχεία πάρθηκαν, όπως αναφέρθηκε στην εκφώνηση, από την [τρέχουσα έκδοση οδηγού σπουδών](https://github.com/ioniodi/study-guide/blob/master/legacy/odt1718/SG1718.md), και πριν αυτό, έγινε έλεγχος για να μην επιλεχθούν τα ίδια αρχεία με αυτά που έχουν ήδη επιλεχτεί σε [ανοιχτά](https://github.com/ioniodi/study-guide/pulls) και [κλειστά](https://github.com/ioniodi/study-guide/pulls?q=is%3Apr+is%3Aclosed) αιτήματα.
 
